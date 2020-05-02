@@ -8,3 +8,4 @@ from the command line and collating said information through a script. We made u
 of many primary linux functions to manipulate files and directory structures. 
 
 
+![Optional Text](../master/1.png)
